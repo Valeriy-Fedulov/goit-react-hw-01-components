@@ -12,11 +12,13 @@
 .transactionHistory thead {
   color: white;
   background-color: steelblue;
+  text-transform: uppercase;
 }
 
 .transactionHistory th {
   padding: 20px 0;
   border: 1px solid lightgray;
+  text-transform: capitalize;
 }
 
 .transactionHistory tbody tr:nth-child(even) {
